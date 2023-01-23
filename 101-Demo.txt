@@ -11,6 +11,8 @@ It's fun!
 Let's learn JavaScript
 HTML 
 CSS
+php 
+jquery
 
 
 
